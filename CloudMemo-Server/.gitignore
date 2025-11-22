@@ -1,0 +1,14 @@
+# Maven / Gradle 输出
+/target/
+/build/
+
+# 日志文件
+*.log
+
+# 本地配置文件
+application-local.yml
+
+# IDE 文件
+*.iml
+.idea/
+.vscode/

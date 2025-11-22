@@ -1,0 +1,15 @@
+# Android 编译输出
+/build/
+/app/build/
+/.gradle/
+
+# 本地配置文件
+/local.properties
+
+# IDEA / Android Studio 文件
+*.iml
+.idea/
+*.hprof
+
+# 日志文件
+*.log

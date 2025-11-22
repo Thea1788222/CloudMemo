@@ -1,0 +1,16 @@
+# -------------------
+# 通用规则
+# -------------------
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Temp / log
+*.log
+*.tmp
